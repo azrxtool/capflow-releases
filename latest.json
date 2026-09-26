@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
-  "notes": "Detection speed test.",
-  "at": "2026-09-26T00:40:34.072Z"
+  "version": "0.4.1",
+  "notes": "Images: ek account par 100 tak ek sath (tool ka apna call, UI ke baghair) — 100 images ~104 s. Tute Gemini login wala browser ab video nahi rokta (us ka hissa theek browser par). Script: DeepSeek ek dafa mein, Claude sirf hooks. Avatar clips ka 10-minute atkav khatam.",
+  "at": "2026-09-26T18:39:56.472Z"
 }
