@@ -1,5 +1,5 @@
 {
-  "version": "0.4.2",
-  "notes": "Prompts ab ~3x tez: hero ek chhoti call se, phir saare batches ek sath (pehle pehla batch akela 105 s leta tha).",
-  "at": "2026-09-26T18:42:23.126Z"
+  "version": "0.4.3",
+  "notes": "Hooks ab sach mein Claude se: proxy ka Claude khatam ho to Claude Sonnet 5 (OpenRouter), DeepSeek par nahi. Chhoti script par continuation. Log mein asli model.",
+  "at": "2026-09-26T18:50:36.434Z"
 }
