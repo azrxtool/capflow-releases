@@ -1,5 +1,5 @@
 {
-  "version": "0.4.4",
-  "notes": "Hooks ka kachcha jawab work folder mein save hota hai (JSON na bane to wajah dikhe).",
-  "at": "2026-09-26T18:59:24.897Z"
+  "version": "0.4.5",
+  "notes": "Hooks (Claude) ab 16 s mein aur hamesha poora jawab: Claude ka apne aap sochna band (pehle 40-55 s aur aksar khali jawab).",
+  "at": "2026-09-26T19:09:28.530Z"
 }
