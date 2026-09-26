@@ -1,5 +1,5 @@
 {
-  "version": "0.4.3",
-  "notes": "Hooks ab sach mein Claude se: proxy ka Claude khatam ho to Claude Sonnet 5 (OpenRouter), DeepSeek par nahi. Chhoti script par continuation. Log mein asli model.",
-  "at": "2026-09-26T18:50:36.434Z"
+  "version": "0.4.4",
+  "notes": "Hooks ka kachcha jawab work folder mein save hota hai (JSON na bane to wajah dikhe).",
+  "at": "2026-09-26T18:59:24.897Z"
 }
